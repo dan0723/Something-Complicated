@@ -1,7 +1,7 @@
 # Something-Complicated
 Something Very Complicated
 
-![lonely]（./lonely.jfif）
+
 
 你好! 你好吗? 我的名字是产款物。 
 
